@@ -1,0 +1,9 @@
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\bin\Debug\TestVS.exe.config
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\bin\Debug\TestVS.exe
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\bin\Debug\TestVS.pdb
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\obj\Debug\TestVS.csprojResolveAssemblyReference.cache
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\obj\Debug\TestVS.Form1.resources
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\obj\Debug\TestVS.Properties.Resources.resources
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\obj\Debug\TestVS.csproj.GenerateResource.Cache
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\obj\Debug\TestVS.exe
+D:\Desarrollo\ECP_Repo\GSC\TestVS\TestVS\obj\Debug\TestVS.pdb
